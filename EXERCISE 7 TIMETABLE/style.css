@@ -314,10 +314,13 @@
   /* profile */
 
   .profile-box {
-    max-width: 300px;
+    max-width: 1000px;
     margin: auto;
     background: none;
     padding: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
   }
 
   .profile-card {
