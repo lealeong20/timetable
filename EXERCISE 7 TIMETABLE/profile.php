@@ -13,12 +13,7 @@
 <div class="container">
   <div class="sidebar">
     <h1>timetable</h1>
-    <ul>
-        <li><a href="in.html">Home</a></li>
-        <li><a href="schedule.html">Schedule</a></li>
-        <li><a href="profile.html">Profile</a></li>
-        <li><a href="about.html">About</a></li>
-    </ul>
+<?php include 'nav.php'; ?>
   </div>
   
 <div class="profile-box">
