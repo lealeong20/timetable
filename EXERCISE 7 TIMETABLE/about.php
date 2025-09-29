@@ -12,7 +12,7 @@
 <body>
 <div class="container">
   <div class="sidebar">
-    <h1>timetable</h1>
+    <h1>Timetable</h1>
 <?php include 'nav.php'; ?>
   </div>
 
