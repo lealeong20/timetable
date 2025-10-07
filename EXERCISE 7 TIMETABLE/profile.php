@@ -72,7 +72,7 @@
     <div class="subs-box">
         <div class="subs-card">
             <img src="image/view offers.jpg" alt="pfp" class="subs-pic">
-            <button class="subs-btn">View Offers</button>
+            <button class="subs-btn">View Offer</button>
     </div>
 </div>
 </div>
@@ -126,4 +126,5 @@ gsap.from(".contact-btn", {
 </script>
 
 </body>
+
 </html>
