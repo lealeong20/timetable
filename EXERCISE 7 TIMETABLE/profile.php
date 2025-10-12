@@ -67,12 +67,11 @@
         <p class="bio">3rd Year - BSIT</p>
     </div>
 </div>
-
-<div class="profile-box">
-    <div class="subs-box">
-        <div class="subs-card">
-            <img src="image/view offers.jpg" alt="pfp" class="subs-pic">
-            <button class="subs-btn">View Offerss</button>
+    <div class="profile-box">
+        <div class="subs-box">
+            <div class="subs-card">
+                <img src="image/view offers.jpg" alt="pfp" class="subs-pic">
+                <a href="offer.php" class="subs-btn">View Offers</a>
     </div>
 </div>
 </div>
@@ -128,6 +127,7 @@ gsap.from(".contact-btn", {
 </body>
 
 </html>
+
 
 
 
